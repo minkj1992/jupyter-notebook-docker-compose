@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "notebook"
+version = "0.1.0"
+description = ""
+authors = ["minkj1992 <minkj1992@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ipython = "^8.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
