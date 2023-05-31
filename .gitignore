@@ -1,0 +1,22 @@
+.env
+**/data
+**/modules
+**/datasets
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# Environments
+.env
+.env.dev
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+**/.env
+**/.env.dev
+
+
